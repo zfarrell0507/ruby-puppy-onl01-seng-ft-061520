@@ -18,3 +18,4 @@ end
 
 natalie = Dog.new("Natalie")
 Dog.all
+
