@@ -13,8 +13,14 @@ class Dog
     @@all
   end
   
-  def clear
+  def self.clear
+    self(@@all) = []
+  end 
+  
+  def self.print_all 
+    def
 end
+
 
 natalie = Dog.new("Natalie")
 Dog.all
