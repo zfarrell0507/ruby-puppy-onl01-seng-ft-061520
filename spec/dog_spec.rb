@@ -32,6 +32,15 @@ describe "Dog" do
     end
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
     describe ".clear_all" do
       it "is a class method that empties the @@all array of all existing dogs" do
         Dog.clear_all
