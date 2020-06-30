@@ -12,6 +12,8 @@ class Dog
   def self.all
     @@all
   end
+  
+  def clear
 end
 
 natalie = Dog.new("Natalie")
