@@ -30,6 +30,7 @@ describe "Dog" do
         expect(Dog.all).to match([pluto,fido,maddy])
       end
     end
+  end
 
   describe "#name" do
     it "has a name" do
