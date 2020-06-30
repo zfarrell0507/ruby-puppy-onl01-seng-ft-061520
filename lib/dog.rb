@@ -15,4 +15,4 @@ class Dog
 end
 
 natalie = Dog.new("Natalie")
-natalie.all
+Dog.all
